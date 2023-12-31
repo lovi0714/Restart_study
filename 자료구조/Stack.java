@@ -1,3 +1,7 @@
+/*
+풀이 참고 : https://st-lab.tistory.com/175
+*/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
